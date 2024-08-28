@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Zero knowledge**
 
-- 👯 I’m looking to collaborate on **Zero knowledge and CCIP**
+- 👯 I’m looking to collaborate on **AI and Blockchain Integration**
 
 - 📝 I regularly write articles on [https://dev.to/mueedx](https://dev.to/mueedx)
 
