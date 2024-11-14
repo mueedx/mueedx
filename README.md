@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mueedmubashar98@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://flowcv.com/resume/uswudq9ur0)
+- 📄 Know about my experiences [https://flowcv.com/resume/uswudq9ur0](https://flowcv.com/resume/uswudq9ur0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,4 +42,6 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mueedx&" alt="mueedx" /></p>
+<!--   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mueedx&" alt="mueedx" /></p>  
+-->
