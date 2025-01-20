@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **AI and Blockchain Integration**
 
-- 📝 I regularly write articles on [https://dev.to/mueedx](https://dev.to/mueedx)
+<!-- This is a comment --> - 📝 I regularly write articles on [https://dev.to/mueedx](https://dev.to/mueedx)
 
 - 💬 Ask me about **Core or Application Layer Blockchain Development and Industry Usecases**
 
