@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **full-stack products at the intersection of Blockchain and AI**
 - 💬 Ask me about **Next.js / NestJS, smart contracts, Bittensor / Substrate, and shipping agentic systems**
 - 📫 How to reach me **ab.mueed98@gmail.com**
-- 📄 Resume & work **[Portfolio](#)** · [LinkedIn](https://www.linkedin.com/in/mueedx/)
+- 📄 Resume & work **[Portfolio](https://mueedx.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/mueedx/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
