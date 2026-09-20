@@ -172,15 +172,14 @@ I build full Agentic and Blockchain products. I've shipped 20+ Web3 applications
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mueedx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c4a574&icon_color=c4a574" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueedx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=c4a574" alt="Top languages" />
-</p>
+## 📊 GitHub activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mueedx&theme=tokyonight&hide_border=true&background=0f0c29&ring=c4a574&fire=c4a574&currStreakLabel=c4a574" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/c4a574/mueedx" alt="Contribution graph" width="90%" />
 </p>
 
 ---
