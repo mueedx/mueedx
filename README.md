@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mueedx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C4A574&center=true&vCenter=true&width=640&lines=Shipping+Agentic+&+Web3+apps+from+MVP+to+production;Building+Bittensor+infrastructure+at+Subnet.ai;MCP+%C2%B7+A2A+%C2%B7+cloud+agents;Next.js+%C2%B7+NestJS+%C2%B7+Solidity" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C4A574&center=true&vCenter=true&width=640&lines=Shipping+Agentic+and+Web3+apps+from+MVP+to+production;Building+Bittensor+infrastructure+at+Subnet.ai;MCP+%C2%B7+A2A+%C2%B7+cloud+agents;Next.js+%C2%B7+NestJS+%C2%B7+Solidity" alt="Typing animation" />
   </a>
 </p>
 
