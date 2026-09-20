@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://subnet.ai"><img src="https://img.shields.io/badge/Subnet.ai-building-c4a574?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Subnet.ai" /></a>
+  <a href="https://subnet.ai"><img src="https://img.shields.io/badge/Subnet.ai-building-c4a574?style=for-the-badge" alt="Subnet.ai" /></a>
   <a href="https://mueedx.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-visit-302b63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mueedx/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ab.mueed98@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
